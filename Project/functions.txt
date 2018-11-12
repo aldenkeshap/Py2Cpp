@@ -1,0 +1,69 @@
+__import__() x
+abs() +
+all()
+any()
+ascii()
+bin()
+bool() +
+breakpoint()
+bytearray()
+bytes()
+callable()
+chr() +
+classmethod()
+compile() x
+complex() x
+delattr()
+dict()
+dir()
+divmod()
+enumerate()
+eval() x
+exec() x
+filter()
+float()
+format()
+frozenset()
+getattr()
+globals() x
+hasattr() x
+hash()
+help()
+hex()
+id()
+input()
+int() +
+isinstance()
+issubclass()
+iter()
+len() +
+list()
+locals()
+map()
+max() +
+memoryview()
+min() +
+next()
+object()
+oct() +
+open()
+ord() +
+pow() +
+print() +
+property()
+range() +
+repr()
+reversed()
+round() +
+set()
+setattr()
+slice()
+sorted()
+staticmethod()
+str() +
+sum()
+super()
+tuple()
+type()
+vars() x
+zip()
